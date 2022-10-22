@@ -1,7 +1,44 @@
-# Vue 3 + Vite
+# Frontend Mentor - Rock, Paper, Scissors solution
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is a solution to the [Rock, Paper, Scissors challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rock-paper-scissors-game-pTgwgvgH). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Recommended IDE Setup
+## Table of contents
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [Author](#author)
+
+# Overview
+
+## The challenge
+
+Users should be able to:
+
+- View the optimal layout for the game depending on their device's screen size
+- Play Rock, Paper, Scissors against the computer
+- Maintain the state of the score after refreshing the browser 
+- **Bonus**: Play Rock, Paper, Scissors, Lizard, Spock against the computer
+
+### Rules
+
+If the player wins, they gain 1 point. If the computer wins, the player loses one point.
+
+### Original
+
+- Paper beats Rock
+- Rock beats Scissors
+- Scissors beats Paper
+
+
+##  Links
+
+- Solution URL: [Click for Solution](https://github.com/abouhilalbadr/rock-paper-scissors-game)
+- Live Site URL: [Click for Live Site](https://rock-paper-scissors-game-sandy.vercel.app/)
+
+# Author
+
+- Website - [Abouhilal badr](https://www.badrabouhilal.com)
+- Frontend Mentor - [@abouhilalbadr](https://www.frontendmentor.io/profile/abouhilalbadr)
+- Twitter - [@AbouhilalBadr](https://www.twitter.com/AbouhilalBadr)
+
